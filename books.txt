@@ -1,2 +1,2 @@
-1. Clrs
+1. Clrsk
 2. introduction to python oops
